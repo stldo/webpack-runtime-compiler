@@ -1,0 +1,19 @@
+{
+  "name": "webpack-runtime-compiler",
+  "version": "0.0.1",
+  "description": "Webpack runtime compiler with support for strings and Buffer objects as virtual files in memory.",
+  "main": "index.js",
+  "repository": "sbtoledo/webpack-runtime-compiler",
+  "keywords": [
+    "webpack",
+    "compiler",
+    "runtime"
+  ],
+  "dependencies": {
+    "dynamic-fs": "0.0.1",
+    "memory-fs": "^0.4.1",
+    "webpack": "^2.2.1"
+  },
+  "author": "Saulo Toledo (sbtoledo.github.io)",
+  "license": "MIT"
+}
