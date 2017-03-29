@@ -1,5 +1,4 @@
 const DynamicFs = require('dynamic-fs');
-const fs = require('fs');
 const MemoryFs = require('memory-fs');
 const webpack = require('webpack');
 
