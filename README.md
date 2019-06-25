@@ -52,4 +52,4 @@ let compiler = new WebpackRuntimeCompiler(webpackOptions, customFiles, true); //
 
 ## License
 
-The MIT License (MIT), © 2017 Saulo Toledo
+[The MIT License](./LICENSE)
