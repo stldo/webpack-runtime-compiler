@@ -1,6 +1,6 @@
 {
   "name": "webpack-runtime-compiler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webpack runtime compiler with support for strings and Buffer objects as virtual files in memory.",
   "main": "index.js",
   "repository": "https://github.com/stldo/webpack-runtime-compiler",
